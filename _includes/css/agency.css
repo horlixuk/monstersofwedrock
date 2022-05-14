@@ -439,7 +439,7 @@ header .intro-text .intro-heading {
         margin-bottom: 100px;
         /*text-transform: uppercase;*/
         /*font-family: {{ site.data.template.font.primary }};*/
-        font-family: 'stay_classy_sldtregular';
+        font-family: 'Lato';
         text-shadow: 2px 2px 4px #000000;
         font-size: 75px;
         /*font-weight: 700;*/
@@ -792,7 +792,7 @@ section#contact {
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: yellow;
 }
 
 section#contact .form-group {
@@ -855,6 +855,15 @@ section#venue {
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+section#events {
+    background-color: #222;
+    /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:yellow;
 }
 
 footer {
