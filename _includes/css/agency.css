@@ -848,6 +848,14 @@ section#contact .text-danger {
     color: #e74c3c;
 }
 
+section#venue {
+    background-color: #222;
+    background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
 footer {
     padding: 25px 0;
     text-align: center;
