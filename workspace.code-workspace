@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\Documents\\scripting\\python"
+		},
+		{
+			"name": "adventure",
+			"path": "..\\Documents\\scripting\\python\\Adventure\\adventure"
+		}
+	],
+	"settings": {}
+}
