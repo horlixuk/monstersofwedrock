@@ -12,11 +12,11 @@ body {
 }
 
 .text-muted {
-    color: #{{ site.data.template.color.muted }};
+    color: yellow;
 }
 
 .text-primary {
-    color: #{{ site.data.template.color.primary }};
+    color: white;
 }
 
 p {
@@ -40,6 +40,11 @@ p.large {
 p.largepad {
     font-size: 16px;
     padding-bottom: 25px;
+}
+
+link {
+    color: blue;
+    text-decoration: underline;
 }
 
 a,
@@ -245,7 +250,8 @@ fieldset[disabled] .btn-m.active {
 
 .navbar-default .navbar-brand {
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    font-family: "Helvetica Neue",Helvetica,Arial,cursive;
+    /*font-family: "Helvetica Neue",Helvetica,Arial,cursive;*/
+    font-family: "Lato";
     /*color: #{{ site.data.template.color.primary }};*/
     color: #FF0;
 }
@@ -308,9 +314,9 @@ fieldset[disabled] .btn-m.active {
 
 .brand {
     /*font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;*/
-    font-family: "Helvetica Neue",Helvetica,Arial,cursive;
-    color: #{{ site.data.template.color.primary }};
-    font-size: 2.5em;
+    font-family: "Lato";
+    color: yellow;
+    font-size: 2em;
 }
 
 .brand {
