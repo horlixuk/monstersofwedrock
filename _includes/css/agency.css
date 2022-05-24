@@ -42,7 +42,7 @@ p.largepad {
     padding-bottom: 25px;
 }
 
-link {
+.link {
     color: blue;
     text-decoration: underline;
 }
@@ -874,8 +874,26 @@ section#events {
     color:#FF0;
 }
 
-section#events {
+section#travel {
+    background-color: gray;
+    /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:yellow;
+}
+
+section#stay {
     background-color: #222;
+    /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:yellow;
+}
+
+section#things_to_do {
+    background-color: grey;
     /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
     background-size: 100% 100%;
     background-position: center;
