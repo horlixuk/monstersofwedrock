@@ -89,6 +89,11 @@ h6 {
     background-color: #222;
 }
 
+.bg-black {
+    background-color: black;
+}
+
+
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
     text-transform: uppercase;
@@ -892,7 +897,7 @@ section#stay {
     color:yellow;
 }
 
-section#things_to_do {
+section#portfolio {
     background-color: grey;
     /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
     background-size: 100% 100%;
