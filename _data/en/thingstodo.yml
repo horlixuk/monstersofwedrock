@@ -1,8 +1,8 @@
 - title: Visit the beach
   subtitle: The beach at Llantwit Major is well worth a visit
   modal-id: 1
-  img: lmbeach.jpg
-  thumbnail: lmbeach.jpg
+  img: lmbeach.JPG
+  thumbnail: lmbeach.JPG
   drive: 5 minutes
   link: https://www.thebeachguide.co.uk/south-wales/glamorgan/llantwit-major-beach.htm
   description: The beach at Llantwit Major is well worth a visit.
@@ -28,8 +28,8 @@
 - title: Hensol Castle Distillery
   subtitle: South Wales' first full scale gin distillery
   modal-id: 4
-  img: hensol.jpg
-  thumbnail: hensol.jpg
+  img: hensol.JPG
+  thumbnail: hensol.JPG
   drive: 30 minutes
   link: https://www.hensolcastledistillery.com/
   description: Just outside Cardiff you'll find South Wales' first full scale gin distillery, visitor experience, gin school and bottling plant, all distilling nicely in the cellars of the 17th century Hensol Castle.
@@ -37,8 +37,8 @@
 - title: Whitmore Bay and Barry Island
   subtitle: Oh, what's occurin'?
   modal-id: 5
-  img: whitmore.jpg
-  thumbnail: whitmore.jpg
+  img: whitmore.jpeg
+  thumbnail: whitmore.jpeg
   drive: 30 minutes
   link: https://www.visitthevale.com/attractions/WhitmoreBayBeachCBarryIsland
   description: A sweeping promenade along the entire length of Whitmore Bay beach, against a backdrop of enticing cafés and restaurants.

@@ -751,7 +751,8 @@ readers do not read off random characters that represent icons */
   content: "\f46b"; }
 
 .fa-car:before {
-  content: "\f1b9"; }
+  content: "\f1b9";
+  color: black; }
 
 .fa-car-alt:before {
   content: "\f5de"; }
@@ -3067,7 +3068,8 @@ readers do not read off random characters that represent icons */
   content: "\f67f"; }
 
 .fa-plane:before {
-  content: "\f072"; }
+  content: "\f072";
+  color: black }
 
 .fa-plane-arrival:before {
   content: "\f5af"; }
@@ -4060,7 +4062,8 @@ readers do not read off random characters that represent icons */
   content: "\e041"; }
 
 .fa-train:before {
-  content: "\f238"; }
+  content: "\f238";
+  color: black; }
 
 .fa-tram:before {
   content: "\f7da"; }
