@@ -1,8 +1,8 @@
 - title: Visit the beach
   subtitle: The beach at Llantwit Major is well worth a visit
   modal-id: 1
-  img: 1.jpg
-  thumbnail: 1.jpg
+  img: lmbeach.jpg
+  thumbnail: lmbeach.jpg
   drive: 5 minutes
   link: https://www.thebeachguide.co.uk/south-wales/glamorgan/llantwit-major-beach.htm
   description: The beach at Llantwit Major is well worth a visit.
@@ -10,35 +10,35 @@
 - title: Visit St Donats castle
   subtitle: The longest continually inhabited castle in Wales.
   modal-id: 2
-  img: 2.jpg
-  thumbnail: 2.jpg
-  drive: X minutes
+  img: donats.jpg
+  thumbnail: donats.jpg
+  drive: 10 minutes
   link: https://www.visitwales.com/attraction/castle/st-donats-castle-uwc-atlantic-experience-1169722
   description: Antique ceilings, fireplaces, a moat, battlements, dungeons - in short, over 800 years of history, which also included Celtic kings defying the Romans, ghosts wailing on stormy nights, executed pirates, and even a witch called Mally-y-Nos.
 
 - title: Dyffryn Gardens
   subtitle: National Trust Garden
   modal-id: 3
-  img: 3.jpg
-  thumbnail: 3.jpg
-  drive: X minutes
+  img: dyffryn.jpg
+  thumbnail: dyffryn.jpg
+  drive: 25 minutes
   link: https://www.nationaltrust.org.uk/dyffryn-gardens
   description: A peaceful oasis on the outskirts of Cardiff, Dyffryn Gardens covers more than 55 acres. The Edwardian gardens are a restoration garden, on a path to excellence. With year-round seasonal highlights the gardens feature the best woody collection in the National Trust.
 
 - title: Hensol Castle Distillery
   subtitle: South Wales' first full scale gin distillery
   modal-id: 4
-  img: 4.jpg
-  thumbnail: 4.jpg
-  drive: X minutes
+  img: hensol.jpg
+  thumbnail: hensol.jpg
+  drive: 30 minutes
   link: https://www.hensolcastledistillery.com/
   description: Just outside Cardiff you'll find South Wales' first full scale gin distillery, visitor experience, gin school and bottling plant, all distilling nicely in the cellars of the 17th century Hensol Castle.
 
 - title: Whitmore Bay and Barry Island
   subtitle: Oh, what's occurin'?
   modal-id: 5
-  img: 5.jpg
-  thumbnail: 5.jpg
-  drive: X minutes
+  img: whitmore.jpg
+  thumbnail: whitmore.jpg
+  drive: 30 minutes
   link: https://www.visitthevale.com/attractions/WhitmoreBayBeachCBarryIsland
   description: A sweeping promenade along the entire length of Whitmore Bay beach, against a backdrop of enticing cafés and restaurants.
