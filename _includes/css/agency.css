@@ -15,6 +15,10 @@ body {
     color: yellow;
 }
 
+.text-muted-black {
+    color: black;
+}
+
 .text-primary {
     color: white;
 }
@@ -403,6 +407,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
+    margin-top: 20px;
     margin-bottom: 25px;
     text-transform: uppercase;
     /*font-family: {{ site.data.template.font.primary }};*/
