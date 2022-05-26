@@ -17,6 +17,7 @@ body {
 
 .text-muted-red {
     color: red;
+    background-color: black;
 }
 
 .text-primary {
