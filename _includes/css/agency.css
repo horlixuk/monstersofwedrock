@@ -903,6 +903,15 @@ section#stay {
     color:yellow;
 }
 
+section#FAQ {
+    background-color: #222;
+    /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    color:yellow;
+}
+
 section#portfolio {
     background-color: grey;
     /* background-image: url('{{ site.baseurl }}/img/backgrounds/barn.jpg');*/
